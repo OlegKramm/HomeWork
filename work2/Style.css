@@ -1,0 +1,23 @@
+.alert {
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.success {
+  background-color: lightgray;
+}
+.info {
+  background-color: red;
+}
+.warning {
+  background-color: green;
+}
+.danger {
+  background-color: lightcoral;
+}
+.finish {
+  background-color: lightgreen;
+}
+#home {
+  font-size: 20px;
+}
